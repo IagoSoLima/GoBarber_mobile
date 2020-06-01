@@ -30,6 +30,7 @@ export const BackToSignIn = styled.TouchableOpacity`
   left: 0;
   bottom: 0;
   right: 0;
+  max-height: 56px;
   background: #312e38;
   border-top-width: 1px;
   border-color: #232129;
